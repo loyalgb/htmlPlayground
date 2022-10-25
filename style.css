@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Readex Pro';
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    
+    height: 100%;
+    width: 100%;
+    overflow-y: hidden;
+}
+.section1{
+    background-color: aqua;
+}
+#section2{
+    background-color: orange;
+}
+
+.list{
+    padding: 15px;
+}
